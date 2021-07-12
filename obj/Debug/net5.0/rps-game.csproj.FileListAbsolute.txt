@@ -1,0 +1,16 @@
+C:\Users\hbean\source\codeworks\rps-game\bin\Debug\net5.0\rps-game.exe
+C:\Users\hbean\source\codeworks\rps-game\bin\Debug\net5.0\rps-game.deps.json
+C:\Users\hbean\source\codeworks\rps-game\bin\Debug\net5.0\rps-game.runtimeconfig.json
+C:\Users\hbean\source\codeworks\rps-game\bin\Debug\net5.0\rps-game.runtimeconfig.dev.json
+C:\Users\hbean\source\codeworks\rps-game\bin\Debug\net5.0\rps-game.dll
+C:\Users\hbean\source\codeworks\rps-game\bin\Debug\net5.0\ref\rps-game.dll
+C:\Users\hbean\source\codeworks\rps-game\bin\Debug\net5.0\rps-game.pdb
+C:\Users\hbean\source\codeworks\rps-game\obj\Debug\net5.0\rps-game.csproj.AssemblyReference.cache
+C:\Users\hbean\source\codeworks\rps-game\obj\Debug\net5.0\rps-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbean\source\codeworks\rps-game\obj\Debug\net5.0\rps-game.AssemblyInfoInputs.cache
+C:\Users\hbean\source\codeworks\rps-game\obj\Debug\net5.0\rps-game.AssemblyInfo.cs
+C:\Users\hbean\source\codeworks\rps-game\obj\Debug\net5.0\rps-game.csproj.CoreCompileInputs.cache
+C:\Users\hbean\source\codeworks\rps-game\obj\Debug\net5.0\rps-game.dll
+C:\Users\hbean\source\codeworks\rps-game\obj\Debug\net5.0\ref\rps-game.dll
+C:\Users\hbean\source\codeworks\rps-game\obj\Debug\net5.0\rps-game.pdb
+C:\Users\hbean\source\codeworks\rps-game\obj\Debug\net5.0\rps-game.genruntimeconfig.cache
